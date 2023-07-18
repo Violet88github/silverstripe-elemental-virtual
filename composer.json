@@ -13,7 +13,7 @@
     "prefer-stable": true,
     "require": {
         "dnadesign/silverstripe-elemental": ">=3",
-        "silverstripe/tagfield": "^2.0",
+        "silverstripe/tagfield": "^3.0",
         "silverstripe/vendor-plugin": "^1.0",
         "silverstripe/admin": "^2.0"
     },
