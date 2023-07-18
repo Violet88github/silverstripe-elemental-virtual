@@ -1,5 +1,5 @@
 {
-    "name": "dnadesign/silverstripe-elemental-virtual",
+    "name": "violet88/silverstripe-elemental-virtual",
     "description": "Adds ability for Elemental to share content blocks between pages",
     "type": "silverstripe-vendormodule",
     "keywords": [
@@ -12,10 +12,10 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "dnadesign/silverstripe-elemental": "^3 || ^4",
+        "dnadesign/silverstripe-elemental": ">=3",
         "silverstripe/tagfield": "^2.0",
         "silverstripe/vendor-plugin": "^1.0",
-        "silverstripe/admin": "^1.5"
+        "silverstripe/admin": "^2.0"
     },
     "require-dev": {
         "silverstripe/recipe-testing": "^2"
