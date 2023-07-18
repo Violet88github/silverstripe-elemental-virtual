@@ -14,7 +14,7 @@
     "require": {
         "dnadesign/silverstripe-elemental": ">=3",
         "silverstripe/tagfield": "^3.0",
-        "silverstripe/vendor-plugin": "1.7.0",
+        "silverstripe/vendor-plugin": "^2.0",
         "silverstripe/admin": "^2.0"
     },
     "require-dev": {
