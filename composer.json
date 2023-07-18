@@ -18,7 +18,7 @@
         "silverstripe/admin": "^2.0"
     },
     "require-dev": {
-        "silverstripe/recipe-testing": "^2"
+        "silverstripe/recipe-testing": "^3"
     },
     "extra": {
         "branch-alias": {
