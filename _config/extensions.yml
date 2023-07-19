@@ -7,4 +7,4 @@ DNADesign\Elemental\Models\BaseElement:
     - DNADesign\ElementalVirtual\Extensions\BaseElementExtension
 SilverStripe\Admin\LeftAndMain:
   extra_requirements_css:
-    - 'dnadesign/silverstripe-elemental-virtual:css/elemental-admin.css'
+    - 'violet88/silverstripe-elemental-virtual:css/elemental-admin.css'
